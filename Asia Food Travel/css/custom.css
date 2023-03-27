@@ -1,0 +1,112 @@
+/* Custom CSS 
+ * 
+ * Created by: Trang Le 
+ * Date: 02/03/2017
+ */
+
+.jumbotron{
+background-image:url(../images/asia%20food%20travel.jpg);
+
+background-repeat: no-repeat;
+background-position: center center;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: 100% 210%;
+  min-height: 300px;
+    width:100%;
+
+}
+.small {
+    font-size: 100%;
+}
+
+h3 {
+    text-align: center;
+    color: red;
+    font-family: 'Open Sans Condensed', sans-serif; 
+    font-size: 30px;
+    
+}
+
+a:link {
+    color: red;
+    background: white;
+}
+
+.selected {
+      background: red;
+    color: white !important;
+    text-decoration: underline;
+   
+}
+h4{
+    text-align: center;
+    font-family: 'Open Sans Condensed', Georgia, sans-serif;
+    color: red;
+    font-size:30px;
+}
+
+
+
+
+a:visited {
+    color: darkred;
+}
+
+
+
+a:hover {
+    color: white;
+    background-color:red;
+}
+.nav{
+    font-size: 20px;
+    font-family: 'Open Sans Condensed', sans-serif, Georgia;
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+    color: red;
+}
+.nav li{
+    display:inline-block;
+   margin: 10px;
+}
+
+.img-circle {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.img-circle1{
+    margin-top: 20px;
+}
+
+p{
+    text-align: center;
+    font-family: 'Open Sans Condensed',sans-serif;
+    color:grey;
+}
+
+p1{
+    text-align: left;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:26px;
+    
+    
+}
+
+table{
+    font-family: 'Open Sans Condensed', sans-serif, Georgia;
+    font-size:16px;
+    
+}
+
+th{
+    color: red;
+    text-decoration:underline;
+    font-size: 30px;
+}
